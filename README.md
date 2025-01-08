@@ -288,5 +288,6 @@ ORDER BY Games ;
 ![image](https://user-images.githubusercontent.com/120770473/224780942-3c62504d-2c93-422b-a57d-368b0a75bd40.png)
 
 
-
+## Let’s Connect!
+I’m passionate about creating intuitive dashboards and making data accessible for everyone. Let’s connect on [LinkedIn](https://www.linkedin.com/in/pooja-pawar-92086217a) to discuss Excel, SQL, Power BI, and data insights!
 
